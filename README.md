@@ -9,4 +9,4 @@ Este projeto consiste em uma lista de tarefas simples feita para fins acadêmico
 - Vite
 
 ## Preview
-![preview](image.png)
+![preview](src/assets/image.png)
